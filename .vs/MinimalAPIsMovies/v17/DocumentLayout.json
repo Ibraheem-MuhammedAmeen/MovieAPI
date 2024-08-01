@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|c:\\users\\abdulmalik\\source\\repos\\minimalapismovies\\minimalapismovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|solutionrelative:minimalapismovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|c:\\users\\abdulmalik\\source\\repos\\minimalapismovies\\minimalapismovies\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|solutionrelative:minimalapismovies\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|c:\\users\\abdulmalik\\source\\repos\\minimalapismovies\\minimalapismovies\\migrations\\20240714100225_commentswithuserid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|solutionrelative:minimalapismovies\\migrations\\20240714100225_commentswithuserid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|c:\\users\\abdulmalik\\source\\repos\\minimalapismovies\\minimalapismovies\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|solutionrelative:minimalapismovies\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|c:\\users\\abdulmalik\\source\\repos\\minimalapismovies\\minimalapismovies\\endpoints\\usersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|solutionrelative:minimalapismovies\\endpoints\\usersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|c:\\users\\abdulmalik\\source\\repos\\minimalapismovies\\minimalapismovies\\dtos\\authenticationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|solutionrelative:minimalapismovies\\dtos\\authenticationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|c:\\users\\abdulmalik\\source\\repos\\minimalapismovies\\minimalapismovies\\dtos\\usercredentialsdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|solutionrelative:minimalapismovies\\dtos\\usercredentialsdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|c:\\users\\abdulmalik\\source\\repos\\minimalapismovies\\minimalapismovies\\validations\\validationutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|solutionrelative:minimalapismovies\\validations\\validationutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|c:\\users\\abdulmalik\\source\\repos\\minimalapismovies\\minimalapismovies\\dtos\\usercredentialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|solutionrelative:minimalapismovies\\dtos\\usercredentialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|c:\\users\\abdulmalik\\source\\repos\\minimalapismovies\\minimalapismovies\\utilities\\keyshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|solutionrelative:minimalapismovies\\utilities\\keyshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abdulmalik\\AppData\\Roaming\\Microsoft\\UserSecrets\\a1f4193d-e389-49fb-9702-21ea918ff122\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|c:\\users\\abdulmalik\\source\\repos\\minimalapismovies\\minimalapismovies\\migrations\\20240711184103_usetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12983B47-13F9-48E0-9EE9-C40E48145696}|MinimalAPIsMovies\\MinimalAPIsMovies.csproj|solutionrelative:minimalapismovies\\migrations\\20240711184103_usetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalAPIsMovies\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Program.cs",
+              "RelativeToolTip": "MinimalAPIsMovies\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:44:06.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MinimalAPIsMovies\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MinimalAPIsMovies\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:23:54.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240714100225_CommentsWithUserId.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Migrations\\20240714100225_CommentsWithUserId.cs",
+              "RelativeDocumentMoniker": "MinimalAPIsMovies\\Migrations\\20240714100225_CommentsWithUserId.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Migrations\\20240714100225_CommentsWithUserId.cs",
+              "RelativeToolTip": "MinimalAPIsMovies\\Migrations\\20240714100225_CommentsWithUserId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:02:25.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\DTOs\\AuthenticationResponseDTO.cs",
+              "RelativeDocumentMoniker": "MinimalAPIsMovies\\DTOs\\AuthenticationResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\DTOs\\AuthenticationResponseDTO.cs",
+              "RelativeToolTip": "MinimalAPIsMovies\\DTOs\\AuthenticationResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:27:47.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Endpoints\\UsersEndpoints.cs",
+              "RelativeDocumentMoniker": "MinimalAPIsMovies\\Endpoints\\UsersEndpoints.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Endpoints\\UsersEndpoints.cs",
+              "RelativeToolTip": "MinimalAPIsMovies\\Endpoints\\UsersEndpoints.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:28:53.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "MinimalAPIsMovies\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Entities\\Comment.cs",
+              "RelativeToolTip": "MinimalAPIsMovies\\Entities\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:55:52.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidationUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Validations\\ValidationUtilities.cs",
+              "RelativeDocumentMoniker": "MinimalAPIsMovies\\Validations\\ValidationUtilities.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Validations\\ValidationUtilities.cs",
+              "RelativeToolTip": "MinimalAPIsMovies\\Validations\\ValidationUtilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:21:38.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserCredentialsDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\DTOs\\UserCredentialsDTOValidator.cs",
+              "RelativeDocumentMoniker": "MinimalAPIsMovies\\DTOs\\UserCredentialsDTOValidator.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\DTOs\\UserCredentialsDTOValidator.cs",
+              "RelativeToolTip": "MinimalAPIsMovies\\DTOs\\UserCredentialsDTOValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:10:23.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserCredentialsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\DTOs\\UserCredentialsDTO.cs",
+              "RelativeDocumentMoniker": "MinimalAPIsMovies\\DTOs\\UserCredentialsDTO.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\DTOs\\UserCredentialsDTO.cs",
+              "RelativeToolTip": "MinimalAPIsMovies\\DTOs\\UserCredentialsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:55:40.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KeysHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Utilities\\KeysHandler.cs",
+              "RelativeDocumentMoniker": "MinimalAPIsMovies\\Utilities\\KeysHandler.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Utilities\\KeysHandler.cs",
+              "RelativeToolTip": "MinimalAPIsMovies\\Utilities\\KeysHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:36:50.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\AppData\\Roaming\\Microsoft\\UserSecrets\\a1f4193d-e389-49fb-9702-21ea918ff122\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\a1f4193d-e389-49fb-9702-21ea918ff122\\secrets.json",
+              "ToolTip": "C:\\Users\\Abdulmalik\\AppData\\Roaming\\Microsoft\\UserSecrets\\a1f4193d-e389-49fb-9702-21ea918ff122\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\a1f4193d-e389-49fb-9702-21ea918ff122\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T18:53:26.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240711184103_UseTables.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Migrations\\20240711184103_UseTables.cs",
+              "RelativeDocumentMoniker": "MinimalAPIsMovies\\Migrations\\20240711184103_UseTables.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\Migrations\\20240711184103_UseTables.cs",
+              "RelativeToolTip": "MinimalAPIsMovies\\Migrations\\20240711184103_UseTables.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:41:03.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

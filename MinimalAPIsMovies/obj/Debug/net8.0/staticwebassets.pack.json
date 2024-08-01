@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\wwwroot\\actors\\75fbdb59-6852-47c7-84cb-185d0f4f81fe.jpeg",
+      "PackagePath": "staticwebassets\\actors\\75fbdb59-6852-47c7-84cb-185d0f4f81fe.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\wwwroot\\actors\\94330455-4053-4f23-b474-895b8008972d.jpeg",
+      "PackagePath": "staticwebassets\\actors\\94330455-4053-4f23-b474-895b8008972d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\wwwroot\\movies\\b9381622-428a-4588-8ceb-a88157cbc290.jpeg",
+      "PackagePath": "staticwebassets\\movies\\b9381622-428a-4588-8ceb-a88157cbc290.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\wwwroot\\movies\\d11e33f4-919c-4622-b11c-c1647fddfeda.jpeg",
+      "PackagePath": "staticwebassets\\movies\\d11e33f4-919c-4622-b11c-c1647fddfeda.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulmalik\\source\\repos\\MinimalAPIsMovies\\MinimalAPIsMovies\\wwwroot\\movies\\e784c178-11c0-46f3-94e4-b40439b3e5c9.jpeg",
+      "PackagePath": "staticwebassets\\movies\\e784c178-11c0-46f3-94e4-b40439b3e5c9.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MinimalAPIsMovies.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MinimalAPIsMovies.props",
+      "PackagePath": "build\\MinimalAPIsMovies.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MinimalAPIsMovies.props",
+      "PackagePath": "buildMultiTargeting\\MinimalAPIsMovies.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MinimalAPIsMovies.props",
+      "PackagePath": "buildTransitive\\MinimalAPIsMovies.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
